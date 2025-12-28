@@ -1,1 +1,1 @@
-# APS360-Lab
+# APS360H1: Artificial Intelligence Fundamentals
